@@ -7,7 +7,7 @@ This repository lists publicly available speech datasets mainly in cybersecurity
 
 [**WaveFake**](https://github.com/RUB-SysSec/WaveFake): include only crafted speech based on the data from LJ speech corpus. For each genuine utterance, it comes with more than 10 different DF versions.
 
-[**ADD**]: TBU.
+[**ADD**](): TBU.
 
 ## Healthcare
 [**Cambridge COVID Sound**](https://openreview.net/pdf?id=9KArJb4r5ZQ): (obtained upon requests) includes ~300H of voice, cough, and breathing data collected remotely from healthy and COVID individuals. It comes with rich metadata, such as COVID-status, gender, age, symptom, pre-existing medical conditions. However, the COVID labels are self-reproted not PCR-validated.
