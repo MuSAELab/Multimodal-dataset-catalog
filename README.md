@@ -18,9 +18,9 @@ This repository lists publicly available speech datasets mainly in cybersecurity
 
 [**TORGO**](http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html): in-lab voice recordings from individuals with dysarthria. It also provides the text groudtruth and articulatory traces.
 
-[**Nemours**](TBU): (link to be updated) ~800 sentence utterances collected in-lab from individuals with different degrees of dysarthria. Labels are intelligibility.
+[**Nemours**](): (link to be updated) ~800 sentence utterances collected in-lab from individuals with different degrees of dysarthria. Labels are intelligibility.
 
-[**NCSC**]: (link to be updated) sentence utterances from individuals who received a cervical tumor surgery, with binary labels (low- / high-intelligibility)
+[**NCSC**](): (link to be updated) sentence utterances from individuals who received a cervical tumor surgery, with binary labels (low- / high-intelligibility)
 
 
 
