@@ -22,6 +22,8 @@ This repository lists publicly available speech datasets mainly in the cybersecu
 
 [**NCSC**](): (link to be updated) sentence utterances from individuals who received a cervical tumor surgery, with binary labels (low- / high-intelligibility)
 
+# Contribute & Author
+If you wish to contribute or simply offer some comments, contact me at [Yi.Zhu@inrs.ca].
 
 
 
