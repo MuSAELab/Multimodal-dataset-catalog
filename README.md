@@ -1,4 +1,4 @@
-# Speech-datasets
+# Speech-datasets (updated Sep 14th 2023)
 This repository lists publicly available speech datasets mainly in cybersecurity and healthcare domain, and is updated constantly.
 ## Deepfakes
 [**In-the-wild**](https://deepfake-demo.aisec.fraunhofer.de/in_the_wild): in-the-wild deepfakes, including genuine and crafted ones from celebrity voices.
@@ -18,7 +18,7 @@ This repository lists publicly available speech datasets mainly in cybersecurity
 
 [**TORGO**](http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html): in-lab voice recordings from individuals with dysarthria. It also provides the text groudtruth and articulatory traces.
 
-[**Nemours**](TBU): ~800 sentence utterances collected in-lab from individuals with different degrees of dysarthria. Labels are intelligibility.
+[**Nemours**](TBU): (link to be updated) ~800 sentence utterances collected in-lab from individuals with different degrees of dysarthria. Labels are intelligibility.
 
 
 
