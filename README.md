@@ -20,6 +20,8 @@ This repository lists publicly available speech datasets mainly in cybersecurity
 
 [**Nemours**](TBU): (link to be updated) ~800 sentence utterances collected in-lab from individuals with different degrees of dysarthria. Labels are intelligibility.
 
+[**NCSC**]: (link to be updated) sentence utterances from individuals who received a cervical tumor surgery, with binary labels (low- / high-intelligibility)
+
 
 
 
