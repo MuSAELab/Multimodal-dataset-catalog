@@ -1,5 +1,11 @@
-# Pathological-speech-datasets
+# Speech-datasets
+This repository lists publicly available speech datasets mainly in cybersecurity and healthcare domain, and is updated constantly.
+## Deepfakes
+[LINK](https://deepfake-demo.aisec.fraunhofer.de/in_the_wild) In-the-wild deepfake speech, including genuine and crafted ones.
+[LINK](https://www.asvspoof.org/index2021.html) The most commonly used deepfake dataset from the ASVspoof challenge series. This is the 2021 version which includes a deepfake track.
 
-This repository lists publicly available pathological speech datasets, and is updated every few months. Note that only the ones with original recordings are included. If there are any other datasets out there that are not listed here, please let me know and I will include correspondingly.
+## Healthcare
+
+
 
 
