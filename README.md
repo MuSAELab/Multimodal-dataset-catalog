@@ -1,5 +1,5 @@
 # Speech-datasets (updated Sep 14th 2023)
-This repository lists publicly available speech datasets mainly in cybersecurity and healthcare domain, and is updated constantly.
+This repository lists publicly available speech datasets mainly in the cybersecurity and healthcare domain, and is updated constantly.
 ## Deepfakes
 [**In-the-wild**](https://deepfake-demo.aisec.fraunhofer.de/in_the_wild): in-the-wild deepfakes, including genuine and crafted ones from celebrity voices.
 
