@@ -30,6 +30,8 @@ This repository lists publicly available speech datasets mainly in the cybersecu
 
 [**NCSC**](): (link to be updated) sentence utterances from individuals who received a cervical tumor surgery, with binary labels (low- / high-intelligibility)
 
+[**KSoF-C**](https://zenodo.org/record/6460102): (obtained upon request) Original version contains 5K 3-sec speech segments from 37 German speakers. The segments contain speech of persons who stutter. The one used in the INTERSPEECH 2022 ComParE challenge (KSOF-C) only features 4601 non-ambiguously labeled segments, where segments are classified as one of the 8 classes - the seven stuttering-related classes and an eighth “garbage” class, denoting unintelligible segments, segments containing no speech, or segments that are negatively affected by loud background noise.
+
 # Contribute & Author
 If you wish to contribute or simply offer some comments, contact me at [Yi.Zhu@inrs.ca].
 
