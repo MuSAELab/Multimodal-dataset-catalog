@@ -34,6 +34,8 @@ This repository lists publicly available speech datasets mainly in the cybersecu
 
 [**Sep-28k**](https://github.com/apple/ml-stuttering-events-dataset/): A Dataset for Stuttering Event Detection from Podcasts with People Who Stutter. It contains stuttering event annotations for approximately 28,000 3-second clips (English). In addition they include stutter event annotations for about 4,000 3-second clips from the FluencyBank dataset.
 
+[**DAIC-WOZ**](https://dcapswoz.ict.usc.edu/): (obtained upon request) this dataset includes audio-visual interviews of 189 participants, male and female, who underwent evaluation of psychological distress. Each participant was assigned a self-assessed depression score through the patient health questionnaire (PHQ-8) method. A total of ~58H of audio data.
+
 
 
 # Contribute & Author
