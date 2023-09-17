@@ -1,6 +1,13 @@
-# Speech-datasets (updated Sep 16th 2023)
-This repository lists publicly available speech datasets mainly in the cybersecurity and healthcare domain, and is updated on a regular basis.
-## Deepfakes
+# Multi-modal dataset catalog
+This repository lists publicly available datasets in the following domains:
+ - Audio and speech
+ - Biomedical signals (e.g., EEG, ECG, etc.)
+
+Though we updated it on a regular basis, we may some most recent ones. Feel free to let us know by leaving a comment :)
+
+## Speech-datasets (updated Sep 16th 2023)
+Listed speech datasets are mainly in the cybersecurity and healthcare domain.
+### Deepfakes
 [**ASVspoof 2021**](https://www.asvspoof.org/index2021.html): the commonly used deepfake dataset from the ASVspoof challenge series. This is the 2021 version which includes a deepfake track, with 600K utterances from a variety of generation algorithms and codecs. See also the [2019 version](https://datashare.ed.ac.uk/handle/10283/3336), which also has some DFs in the LA track.
 
 [**WaveFake**](https://github.com/RUB-SysSec/WaveFake): include only crafted speech based on the data from LJ speech corpus. For each genuine utterance, it comes with more than 10 different DF versions.
@@ -17,7 +24,7 @@ This repository lists publicly available speech datasets mainly in the cybersecu
 
 
 
-## Healthcare
+### Healthcare
 [**Cambridge COVID Sound**](https://openreview.net/pdf?id=9KArJb4r5ZQ): (obtained upon requests) includes ~300H of voice, cough, and breathing data collected remotely from healthy and COVID individuals. It comes with rich metadata, such as COVID-status, gender, age, symptom, pre-existing medical conditions. However, the COVID labels are self-reproted not PCR-validated.
 
 [**Coswara**](https://github.com/iiscleap/Coswara-Data): COVID-19 sounds (voice, cough, breathing) collected in India. See also the related [DiCOVA 1&2 challenge datasets](https://dicova2021.github.io/). The challenge ones are obtained upon requests.
