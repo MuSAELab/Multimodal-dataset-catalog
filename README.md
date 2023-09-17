@@ -3,7 +3,7 @@ This repository lists publicly available datasets in the following domains:
  - Audio and speech
  - Biomedical signals (e.g., EEG, ECG, etc.)
 
-Though we updated it on a regular basis, we may some most recent ones. Feel free to let us know by leaving a comment :)
+Though we updated it on a regular basis, we may miss some most recent ones. Feel free to let us know by leaving a comment :)
 
 ## Speech-datasets (updated Sep 16th 2023)
 Listed speech datasets are mainly in the cybersecurity and healthcare domain.
