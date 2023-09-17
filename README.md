@@ -1,5 +1,5 @@
-# Multi-modal dataset catalog
-This repository lists publicly available datasets in the following domains:
+# Multimodal dataset catalog
+This repository lists publicly available datasets encompassing the following modalities:
  - Audio and speech
  - Biomedical signals (e.g., EEG, ECG, etc.)
 
