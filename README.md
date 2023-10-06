@@ -22,6 +22,8 @@ Listed speech datasets are mainly in the cybersecurity and healthcare domain.
 
 [**SceneFake**](https://zenodo.org/record/7663324): acoustic scene is crafted while voice itself remains unchanged. Detailed generation pipeline can be found in the [paper](https://arxiv.org/pdf/2211.06073.pdf).
 
+[**Singfake**](https://singfake.org/): In-the-wild dataset consisting of 28.93 hours of bonafide and 29.40 hours of deepfake song clips in five languages from 40 singers. Train/valid/test splits were provided with the data.
+
 
 
 ### Healthcare
