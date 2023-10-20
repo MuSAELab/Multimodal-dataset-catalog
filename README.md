@@ -50,7 +50,7 @@ Listed speech datasets are mainly in the cybersecurity and healthcare domain.
 
 
 # Contribute & Author
-If you wish to contribute or simply offer some comments, contact me at [Yi.Zhu@inrs.ca].
+For contribution or questions, please contact at [Yi.Zhu@inrs.ca].
 
 
 
