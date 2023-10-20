@@ -45,6 +45,8 @@ Listed speech datasets are mainly in the cybersecurity and healthcare domain.
 
 [**DAIC-WOZ**](https://dcapswoz.ict.usc.edu/): (obtained upon request) this dataset includes audio-visual interviews of 189 participants, male and female, who underwent evaluation of psychological distress. Each participant was assigned a self-assessed depression score through the patient health questionnaire (PHQ-8) method. A total of ~58H of audio data.
 
+[**MDVR-KCL**](https://zenodo.org/records/2867216): scripted and spontaneous speech recordings from healthy and individuals with Parkinson's disease. Labels are binary PD/Healthy. Other rating labels are available as well.
+
 
 
 # Contribute & Author
