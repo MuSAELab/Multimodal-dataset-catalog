@@ -8,10 +8,15 @@ Though we updated it on a regular basis, we may miss some most recent ones. Feel
 ## Visual-audio (updated 05-13-2024)
 ### Deepfakes
 [**FaceForensics**](https://github.com/ondyari/FaceForensics): 5k+ videos; face-swapping; majority is non-EN audios.
+
 [**Deepfake Detection Challenge Dataset (DFDC)**](https://ai.meta.com/datasets/dfdc/): 10k+ videos; face-swapping; EN.
+
 [**DF-TIMIT**](https://www.idiap.ch/en/scientific-research/data/deepfaketimit): 600+ videos; faceswapping; EN.
+
 [**Celeb-DF**](https://github.com/yuezunli/celeb-deepfakeforensics): 6k+ videos; face swapping; EN;
+
 [**FakeAVCeleb**](https://sites.google.com/view/fakeavcelebdash-lab/): 20k+ videos; fake audio and face; EN.
+
 [**WildDeepfake**](https://github.com/deepfakeinthewild/deepfake-in-the-wild): 7k+ videos; from Internet.
 
 ## Speech-datasets (updated 10-30-2023)
