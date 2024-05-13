@@ -1,5 +1,6 @@
 # Multimodal dataset catalog
 This repository lists publicly available datasets encompassing the following modalities:
+ - Visual-audio
  - Audio and speech
  - Biomedical signals (e.g., EEG, ECG, etc.)
 
