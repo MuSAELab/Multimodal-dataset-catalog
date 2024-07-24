@@ -5,7 +5,7 @@ This repository lists publicly available datasets encompassing the following mod
  - Biomedical signals (e.g., EEG, ECG, etc.)
 
 Though we updated it on a regular basis, we may miss some most recent ones. Feel free to let us know by creating a new issue :)
-## Visual-audio (updated 05-13-2024)
+## Visual-audio (updated 07-24-2024)
 ### Deepfakes
 [**Kaggle The Global Multimedia Deepfake Detection**](https://www.kaggle.com/competitions/multi-ffdv/data): The total amount of the training set is about 250,000 videos (with audio), and the ratio of Deepfake audio-video files to real face audio-video files is about 3:1. For Deepfake audio-video files, it can be subdivided into three subcategories: fake_audio_fake_visual, real_audio_fake_visual, and fake_audio_real_visual, and the ratio is about 1:1:1. All the audio-video files in the competition have been preprocessed uniformly with the same frame size, frame rate and audio sampling frequency.
 
@@ -21,7 +21,7 @@ Though we updated it on a regular basis, we may miss some most recent ones. Feel
 
 [**WildDeepfake**](https://github.com/deepfakeinthewild/deepfake-in-the-wild): 7k+ videos; from Internet.
 
-## Speech-datasets (updated 05-13-2024)
+## Speech-datasets (updated 07-24-2024)
 ### Deepfakes
 [**ASVspoof 5**](https://www.asvspoof.org/): (Ongoing challenge) Audio deepfake dataset with ~160K samples in training and similar size for validation, and ~680K samples in the evaluation set. Since the challenge is ongoing, registration is required to obtain access to all data.
 
